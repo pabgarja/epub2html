@@ -1,4 +1,4 @@
-epub2html
+epub3tohtml
 ===========
 
 What It Does
@@ -13,7 +13,7 @@ You can then call #getParser, #getFile, #getFiles, or #convertMetadata. The latt
 Installing
 -----------
 
-    npm install epub2html
+    npm install epub3tohtml
 
 
 
